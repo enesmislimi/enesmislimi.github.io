@@ -1,0 +1,33 @@
+h1{
+	text-align: center;
+	background-color: #6495ed;
+	margin-top: 10px;
+}
+h2{
+	font-size: 18px;
+	color: #6495ed;
+	text-align: center;
+}
+footer{
+	text-align: center;
+}
+#textepresentation{
+	border: 3px dashed;
+	margin: 10px;
+}
+img{
+	float: left;
+	width: 350px;
+}
+header{
+	display: inline-block;
+}
+.box{
+	display: flex;
+
+}
+article{
+	text-align: justify;
+	margin-right: 10px;
+	margin-left: 10px;
+}
